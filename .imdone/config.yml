@@ -13,6 +13,7 @@ code:
     - IDEA
     - NOTE
     - REVIEW
+    - PROJECTS
 lists:
   - filter: 'dueDate < "${tomorrow at 6AM}" AND list != DONE +dueDate +order'
     hidden: true
@@ -31,6 +32,9 @@ lists:
     hidden: false
     id: 1
     name: Recently Completed
+  - name: PROJECTS
+    hidden: false
+    ignore: false
 settings:
   journalType: New File
   journalPath: imdone-tasks

@@ -82,6 +82,47 @@
 - imdone doesn't parse MD inside notes very well (links for example)
   - i take that back; it works fine, they even seem to be clickable
 
+2021-04-14
+Looking into obsidian
+  1. https://obsidian.md/features
+  2. Templates: (allows to insert tasks etc): https://help.obsidian.md/Plugins/Templates
+  3. Text Expansion: (useful for many things! names, etc - but also possible instead of templates for notes, APs for imdone): https://forum.obsidian.md/t/integrated-text-expander/3476/10
+  4. Auto insert Date (https://forum.obsidian.md/t/keyboard-shortcuts-to-enter-current-date-time/110/45)
+  5. Pasting Screenshots and images (https://forum.obsidian.md/t/better-filenames-for-images-copied-from-clipboard/1240)
+  6. Embed files (not just images! Youtube embed as well!) https://help.obsidian.md/How+to/Embed+files
+  7. Working with Multiple Notes: https://help.obsidian.md/How+to/Working+with+multiple+notes
+  8. Link to Blocks: https://help.obsidian.md/How+to/Link+to+blocks
+  9. Internal Blocks: https://help.obsidian.md/How+to/Internal+link
+  10. Folding (will be good when a note gets too long): https://help.obsidian.md/How+to/Folding
+  11. creating virtual collections? combination of tags?
+  12. Obsidian supports symlinks? https://help.obsidian.md/Advanced+topics/How+Obsidian+stores+data ... what use case do they see? does it help me with reusing one note in another place?
+    - how would symlink work across platforms though?
+  13. Obsidian and Git! https://forum.obsidian.md/t/obsidian-git-plugin-for-automatic-vault-backup-with-git/7790
+    1. a howto about using git with obsidian: https://forum.obsidian.md/t/obsidian-github-integration-for-sync-and-version-control/6369
+      - written by Bryan Jenkins who i watched on YouTube the other day talking about Obsidian with Zettelkasten and Andy evergreen notes
+      - he also talks about using this for work behind firewall; scripts and a bunch of other good stuff
+      - basically the same thing on medium: https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5
+  14. Tag Pane: https://help.obsidian.md/Plugins/Tag+pane
+  15. Page Preview: https://help.obsidian.md/Plugins/Page+preview (though if i can click links in the actual note itself this is less of a need for wysiwyg)
+  16. Random Note: https://help.obsidian.md/Plugins/Random+note (help stumble on old things)
+  17. Outline Plugin: https://help.obsidian.md/Plugins/Outline (can i use this to collect a list of all the tasks and then link since imdone will just take me to the note?)
+  18. Obsidian Mobile is coming
+    Is there a mobile app?
+      Finally, our mobile app is in private beta!
+      You can read about the beta here.(https://help.obsidian.md/Obsidian/Mobile+app+beta) - (can get acccess for one time fee of $50)
+      For current workarounds, you can also refer to this (https://forum.obsidian.md/t/how-do-i-work-with-obsidian-on-mobile/471) great thread on our forum for a comprehensive list.
+  19. WYSIWYG is in the plans according to the FAQ (see above, it might not be that important in reality)
+  20. Plugins for Obsidian for my needs?
+  21. seems the imdone dev uses obsidian (https://forum.obsidian.md/t/file-as-kanban-board/11801/2) and there's is also a plugin which seems to be actively developed still: https://github.com/imdone/imdone-obsidian-plugin
+  22. there is a sync method: https://obsidian.md/sync ($4 per month; how does this work? can i select what is synced?)
+    1. according to https://help.obsidian.md/Licenses+%26+add-on+services/Obsidian+Sync#:~:text=To%20start%20syncing%2C%20first%20you,Connect%22%20button%20next%20to%20it. yes! selective syn on folders!
+    2. version history is included - every 10 seconds (!)
+      - can i diff a note? doesn't seem like it; so git might be the best way rather than sync
+      - can i write-protect a note? (read only mode) : forum: https://forum.obsidian.md/t/obsidian-viewer-or-view-only-mode-vault-setting/6833/15
+        - seems no; but being plain text on disk, how do you do this realistically? chmod? would work locally i guess - sync would mess it up though
+        - version control is a way around this (if you can do a diff)
+
+
 2021-04-14T23:20:38
 - sitting and playing with obsidian for a while... it feels close, but not quite
   - creating links inside a doc, expecting it to create the file and be linkable works, but you need to get the path right
@@ -168,6 +209,13 @@
   - when you have a meeting, you take MoM - based on existing work, the sytem can pick up existing tasks, and link the notes to them - it can also find unexpected tasks etc and prompt you to create those.
     - when a new task is created in the system, the associated notes are automatically created
 - the tools I have now are close, so close - but they still want to do things the old way...
+2021-04-15T15:55:32
+- some more examples on the above
+  - "collection notice for KiwiBox with ID ABC123US came - need to collect from hemköp before 2021-04-28"
+  - "collected KiwiBox with ID AB123US from Hemköp at 21:30 today"
+  - "credit card bill arrived with due date 2021-04-15T15:56:58 and amount 5249.99"
+  - "received bill for inkomstförsakring with due date ..."
+    - "paid credit card bill for value 12312 today"
 
 2021-04-15T08:48:13
 - case in point; started talking to Steven on Slack re: telenor pakistan - i have no notes on this (in this format - they are in the old way, and need to be imported). so i start to create a task; realised that Telenor Pakistan might have more work later, moved and created a new EPIC (here, EPICs are really collections, but imdone usese EPICs only, so thats what i use to collect common subtask) - thought for two seconds and the note became "Trackin Solution Cos Improvements" - thats what the note is about, and thats the task basically... simple! thats what my system needs to do
@@ -175,3 +223,27 @@
 2021-04-15T10:27:45
 - bringing the USB drive from Windows to Mac (with all my notes etc) - scanning on BitDefender
 ![](evernut_notes-ef253.png)
+
+2021-04-15T15:22:19
+- when moving meeting notes there is the problem of linking notes to tasks
+  - task created (maybe during a meeting)
+    - this is where the task is, and the status updates etc (this can be edited via the imdone UI)
+  - from this task I create a notebook (a file in a folder)
+  - I need a meeting, so i book a meeting, and send an agenda
+    - (I make a note in the task note that a meeting was booked, and link to it)
+    - at this point I create a file in a folder under meetings (this because meetings can be about many subjects, and also can be recurring so having them chronologically in one place makes sense)
+      - i attach the agenda to the meeting note
+      - i do some work in prep - and i include that in the meeting note, since i want that information availble during the meeting (its prep work)
+      - (link to the original task note, that the agenda is set and sent)
+  - now we have the meeting, and i take MoM which goes into the Meeting note in the meetings folder
+  - there is now a disconnect, so I have to
+    - make a note in the task note, that i had a meeting and link to it!
+  (there is some duplication and overhead here which is easy to mess up)
+  - APs have the same problem - i created an AP in the 1:1 with MkK to create an agenda, when i review the notes, ill have no idea where that AP came from (and since it will be in state "DONE" in imdone, i wont be able to easily track-it from there)
+    - linking this together is kinda useful
+    - when the task/AP etc is created, the notes are automatically created, and then linked throughout (Obsidian kidna does this)
+    - i also mention this above
+
+- I think I need to setup some dev env with vue or something, bring in tiny.mce and start working on something (use Atom for the time being)
+  - having the web interface makes linking to things much, much easier
+  - ####[Linking between APs, Tasks, Noes and MoM](#NOTE:)

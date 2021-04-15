@@ -28,3 +28,10 @@
     due-date:2021-04-17T21:00:00
   -->
   - some fun stuff if i want to pick up on the clearance sale (like what? links and prices please!)
+
+2021-04-14
+- chat with AG re: new role and what I'm doing now
+  - showed him the garden, said it was not a big leap from the connected bar
+  - that might be next!
+- ####[Connected Bar](#PROJECTS:)
+  - IoT Beer -> VBCU? Afterwork? Beer Tasting? Virtual Beer Festival (MBCV)? Talk to Craft Beer Channel? (marketing like Pizza with Scott Wiener)
