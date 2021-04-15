@@ -119,4 +119,59 @@
 - considering a post to imdone / obsidian
 - ... it's funny, there is all these tools, and if i could pick a little bit of this, and little of that ... and combine them it'd be pretty damn good!
   - ... what to do...?! (go to bed!)
-- ... tomorrow i've got notes from today to import and handle; most of the kids will be at school though, so thats ok! :) 
+- ... tomorrow i've got notes from today to import and handle; most of the kids will be at school though, so thats ok! :)
+
+2021-04-15T08:08:01
+- i want to remove the overhead of notetaking and being organised
+- i don't want to have to take a bunch of notes, then mess around
+  - which folder does this note belong in?
+  - will i need this note again?
+  - how do i handle this thought so it comes up again?
+  - how do i save this resource/reference for later?
+  - do i want to keep all this work in one place or in chronological order?
+  - oh, that note's been edited - what changes were made?
+  - im away from the PC, now i have 10.000 post-its to work with
+  - im on a diferent PC, now i have a scratch note to deal with
+  - etc...
+- i want to just work, take notes and let the system work out what im doing and take care of it
+- phsycial things have the problem, they can only be in one place at a time; so then you have adam savage "I i need this in 3 years time, where is the first place i would look?"
+  - thats not bad for notetaking to get it somewhere ... but i think notes have some basic characteristics no matter what
+    - they have a time of creation
+    - they have an author
+    - they probably have an intuitive title - you are writing a note about *something* what is that *something*
+      - is it a task?
+      - is it a meeting (which will have a subject)
+      - etc
+    the *something* is then the note title
+      - if you already have that title, then you can update the existing one (or create a new note)
+      - if you don't provide a title, the system
+        - gives a default pattern to save the file
+        - it might give suggestions (based on content and previous notes -> machine learning of your habits)
+          - it could be based on key words; for example if i start a note with
+          "ordered the AD2 from digilent last night"
+          i would know that this was an online shopping note
+            - the formatting would be auto generated
+            - it could guess at the title "Analog Discovery 2"
+            - state could be inferred as "Ordered"
+            - "last night" implies a fuzzy date, but can be converted to a rough time (that is expected to be updated)
+            - it could infer keywords, AD2 and digilent (i might choose to accept or edit those suggestions)
+            - based on my existing notes it would see that AD2 is part of contextual electronics, building a workbench, electronics and would suggest those tags
+            - since its in state "ordered" - there would be some trackers attached to it
+              - have you budgeted it?
+              - when has it moved to shipped? delivered?
+              - tracking info etc
+            - now with one small sentence I have been able to automatically build a note, and I didn't really have to think about anything - i got my thought on the page and the system handled the rest
+            - the sytem can map the keywords in the shopping note template to a viewer (MVC) and show it in a table (it can combine all orders and show one big table... whatever is required!)
+      - categorization can be handled explicitly by tags, keywords and other metadata like creation date, update date
+      - categorization can also be handled implicitly, automatically by the sytem by inferring context and machine learning
+    - they might have a broad subject area (work, home, etc) which defines separation
+  - when you have a meeting, you take MoM - based on existing work, the sytem can pick up existing tasks, and link the notes to them - it can also find unexpected tasks etc and prompt you to create those.
+    - when a new task is created in the system, the associated notes are automatically created
+- the tools I have now are close, so close - but they still want to do things the old way...
+
+2021-04-15T08:48:13
+- case in point; started talking to Steven on Slack re: telenor pakistan - i have no notes on this (in this format - they are in the old way, and need to be imported). so i start to create a task; realised that Telenor Pakistan might have more work later, moved and created a new EPIC (here, EPICs are really collections, but imdone usese EPICs only, so thats what i use to collect common subtask) - thought for two seconds and the note became "Trackin Solution Cos Improvements" - thats what the note is about, and thats the task basically... simple! thats what my system needs to do
+
+2021-04-15T10:27:45
+- bringing the USB drive from Windows to Mac (with all my notes etc) - scanning on BitDefender
+![](evernut_notes-ef253.png)
