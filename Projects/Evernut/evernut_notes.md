@@ -26,6 +26,8 @@
   - have the "notes column" can I use that for something?
 
 - ####[Atom/IMDONE 'good ideas'](#NOTE:0)
+  - how to capture "good ideas" - inspiration perhaps as well
+
 - ####[Atom/IMDONE 'project backlog'](#NOTE:10)
 - ####[Atom/IMDONE 'references'](#NOTE:20)
   - started using these in work projects like "StartIoT Startup" to catch the resources
@@ -246,4 +248,36 @@ Looking into obsidian
 
 - I think I need to setup some dev env with vue or something, bring in tiny.mce and start working on something (use Atom for the time being)
   - having the web interface makes linking to things much, much easier
-  - ####[Linking between APs, Tasks, Noes and MoM](#NOTE:)
+- ####[Problem to Solve: Linking between APs, Tasks, Notes and MoM](#NOTE:10)
+  - there is information all over the place when you create tasks in one place and action them somewhere else
+  - need to sit down and think about how it can work/could work/should work
+  - linking task creation -> notes -> meeting -> etc
+
+2021-04-15T21:56:44
+- i should only work from tasks in imdone; otherwise i will likely get out of sync
+- ####[experiment with aws comprehend - NLP for handling, parsing, categorizing notes from plain text](#TODO:20)
+
+- ####[mockup a gui for note taking](#TODO:40)
+  - atom look and feel
+  - obsidian functionality
+  - widgets
+  - imdone functionality (based on collections)
+
+- ####[mac git autocommit changed files](#TODO:30)
+
+- quick one-liners to find notes
+  `all task types
+  grep -R "\[.*\](#.*:.*)" * | awk -F']' '{print $2}' | awk -F':' '{print $1}' | awk -F# '{print $2}' | sort -u
+
+  AP
+  BLOCKED
+  DOING
+  DONE
+  EPICS
+  RESOURCES
+  TODO
+
+  all tasks in state "DONE"
+  grep -R "\[.*\](#DONE:.*)" *```
+  ![finding tasks in a state](evernut_notes/evernut_notes-995f6.png)
+  (had to use a screenshot as copying the terminal output was causing a conflict with imdone; i'd comment out the paste, then when id save the file, imdone would put it back)

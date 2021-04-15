@@ -1,5 +1,5 @@
 2021-04-08T13:38:00
-- ####[Pay Credit Card Bill (6401.23)](#TODO:0)
+- ####[Pay Credit Card Bill (6401.23)](#TODO:10)
   <!--
     +TAG:Finance
     +TAG:Admin
@@ -12,7 +12,7 @@
   <!--
   -->
 
-- ####[Order AD2](#TODO:1)
+- ####[Order AD2](#DOING:0)
   <!--
     +TAG:Contextual_Electronics
     +TAG:Electronics
@@ -20,6 +20,8 @@
     +TAG:Electronics_Workbench
     +TAG:Training
   -->
+2021-04-15 ordered; waiting for shipping notification -> ping george (signature required)
+2021-04-14 20:41 pinged to CE forum that i bought the AD2, closing that topic
 
 - ####[Check Kjell & Co. Sales](#TODO:1.625)
   <!--

@@ -2,7 +2,7 @@
 - chat with AG re: new role and what I'm doing now
   - showed him the garden, said it was not a big leap from the connected bar
   - that might be next!
-- ####[Connected Bar](#PROJECTS:)
+- ####[Connected Bar](#PROJECTS:0)
   - IoT Beer -> VBCU? Afterwork? Beer Tasting? Virtual Beer Festival (MBCV)? Talk to Craft Beer Channel? (marketing like Pizza with Scott Wiener)
 
 - ####[Buy some nice shirts](#TODO:0)

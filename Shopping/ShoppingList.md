@@ -1,0 +1,12 @@
+- ####[Shopping List](#NOTE:20)
+- Crema
+  - [ ] Passionfruit Syrup
+- Electrokit
+  - [ ] 5mm White LED (Kiwi Pendulum)
+- Kjell
+  - [ ] Playknowlogy
+  - [ ] BBC Micro Drone
+- Sport Bertils
+  - [ ] Helmet
+- Dressman
+  - [ ] Shirts
