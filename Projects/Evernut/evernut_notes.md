@@ -18,7 +18,8 @@
 
 2021-04-13T14:07:40
 
-- ####[Atom Snippets for IMDONE](#TODO:7.96875)
+- ####[Atom Snippets for IMDONE like taks, meetings etc](#TODO:7.96875)
+  - had some on the windows version of atom for names as well
 
 - ####[Review notes and tasks](#TODO:5.9375)
   - have too many notes sititng in the "TODO"; how to handle? (short task, with links to longer descriptions)
@@ -28,7 +29,7 @@
 - ####[Atom/IMDONE 'good ideas'](#NOTE:0)
   - how to capture "good ideas" - inspiration perhaps as well
 
-- ####[Atom/IMDONE 'project backlog'](#NOTE:10)
+- ####[how to handle Atom/IMDONE 'project backlog'?](#NOTE:10)
 - ####[Atom/IMDONE 'references'](#NOTE:20)
   - started using these in work projects like "StartIoT Startup" to catch the resources
   - references can be very generic, so need a good way to store and reuse (but also make them retrievable)
@@ -253,6 +254,23 @@ Looking into obsidian
   - need to sit down and think about how it can work/could work/should work
   - linking task creation -> notes -> meeting -> etc
 
+  - quick one-liners to find notes
+    `all task types
+    grep -R "\[.*\](#.*:.*)" * | awk -F']' '{print $2}' | awk -F':' '{print $1}' | awk -F# '{print $2}' | sort -u
+
+    AP
+    BLOCKED
+    DOING
+    DONE
+    EPICS
+    RESOURCES
+    TODO
+
+    all tasks in state "DONE"
+    grep -R "\[.*\](#DONE:.*)" *```
+    ![finding tasks in a state](evernut_notes/evernut_notes-995f6.png)
+    (had to use a screenshot as copying the terminal output was causing a conflict with imdone; i'd comment out the paste, then when id save the file, imdone would put it back)
+
 2021-04-15T21:56:44
 - i should only work from tasks in imdone; otherwise i will likely get out of sync
 - ####[experiment with aws comprehend - NLP for handling, parsing, categorizing notes from plain text](#TODO:20)
@@ -264,20 +282,3 @@ Looking into obsidian
   - imdone functionality (based on collections)
 
 - ####[mac git autocommit changed files](#TODO:30)
-
-- quick one-liners to find notes
-  `all task types
-  grep -R "\[.*\](#.*:.*)" * | awk -F']' '{print $2}' | awk -F':' '{print $1}' | awk -F# '{print $2}' | sort -u
-
-  AP
-  BLOCKED
-  DOING
-  DONE
-  EPICS
-  RESOURCES
-  TODO
-
-  all tasks in state "DONE"
-  grep -R "\[.*\](#DONE:.*)" *```
-  ![finding tasks in a state](evernut_notes/evernut_notes-995f6.png)
-  (had to use a screenshot as copying the terminal output was causing a conflict with imdone; i'd comment out the paste, then when id save the file, imdone would put it back)

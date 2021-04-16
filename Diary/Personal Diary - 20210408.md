@@ -1,12 +1,13 @@
 2021-04-08T13:38:00
-- ####[Pay Credit Card Bill (6401.23)](#TODO:10)
+- ####[Pay Credit Card Bill (6401.23)](#DONE:10)
   <!--
     +TAG:Finance
     +TAG:Admin
     +TAG:Credit_Card
     +TAG:Bill
     due-date:2021-04-30
-  -->
+    completed-date:2021-04-14
+   completed:2021-04-15T20:41:07.256Z -->
 
 - ####[Clean Up Postits](#TODO:1.8125)
   <!--

@@ -1,6 +1,7 @@
 - ####[Shopping List](#NOTE:20)
 - Crema
   - [ ] Passionfruit Syrup
+  - [ ] Brewler
 - Electrokit
   - [ ] 5mm White LED (Kiwi Pendulum)
 - Kjell
