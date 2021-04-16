@@ -282,3 +282,15 @@ Looking into obsidian
   - imdone functionality (based on collections)
 
 - ####[mac git autocommit changed files](#TODO:30)
+  - 2021-04-16T12:38:52 : cheating by a quick script to go through the projects and commit
+  - some links to read:
+    - https://stackoverflow.com/questions/1515730/is-there-a-command-like-watch-or-inotifywait-on-the-mac
+    - https://stackoverflow.com/questions/420143/making-git-auto-commit
+
+2021-04-16T12:44:30
+- looking around at other markdown editors, in the appstore i found [Agenda](https://agenda.com/), which is described as "Date-focused note taking"
+  - i tried this a City, and it was in the right direction, but again fell flat
+  - why?
+    - UI is too big
+    - although integrating dates and everything is nice, it doesn't cover all my needs
+  - so, again - a tool that has some nice features that I would steal, but is missing many other features!
