@@ -294,3 +294,6 @@ Looking into obsidian
     - UI is too big
     - although integrating dates and everything is nice, it doesn't cover all my needs
   - so, again - a tool that has some nice features that I would steal, but is missing many other features!
+
+2021-04-19T14:07:02
+- (duplicating files in atom, means you duplicate TODOs in imdone... which is problematic - thought shouldnt create too many problems, but maybe... who knows?!)
