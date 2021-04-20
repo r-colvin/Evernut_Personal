@@ -297,3 +297,14 @@ Looking into obsidian
 
 2021-04-19T14:07:02
 - (duplicating files in atom, means you duplicate TODOs in imdone... which is problematic - thought shouldnt create too many problems, but maybe... who knows?!)
+
+2021-04-19T23:22:13
+- for the most part, this notebook is working pretty well; notes are all collected basically as best as they can - but there is some overhead of maintenace which is a problem (though, i suspect this is more because Im a bit in the weeds with so many postits); the worst part is finding where a note is
+  - i create the task in the team meeting (1st document), and there is some background/context etc
+  - i then create a task note for the task (2nd document)
+  - there is then a meeting called which has its own notes (3rd document)
+    - to make matters worse, the prep etc for the meeting is in the meeting notes, and so must be cross rerefenced
+  - when i want to work on a task... where do i go?
+  - when i want to find something... where do i go?
+- ORGANIZATION IS THE ENEMY!
+  - that is, worrying about how to clasify and organise takes too much time; its needs to be automatic and simple
