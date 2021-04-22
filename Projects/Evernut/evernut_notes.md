@@ -308,3 +308,19 @@ Looking into obsidian
   - when i want to find something... where do i go?
 - ORGANIZATION IS THE ENEMY!
   - that is, worrying about how to clasify and organise takes too much time; its needs to be automatic and simple
+
+2021-04-22T20:58:50
+- starting to not like this format; not for any other reason except its spread out all over the place; so whilst things are in some sort of collection, there is folders and notes open all over the place - and this comes back to the need to have organizations strictly enforced;
+
+2021-04-22T21:13:58
+- the [Solder party](https://www.solder.party/docs/) keyboard feather wing would be an awesome piece of kit as a portable note taker; it has a keyboard + touch screen for doodles -> this could go into a scratch pad which is actioned later (unless the AI can figure out where it should go)
+  - solder party are swedish to boot!
+  - [Keyboard Featherwing @ Adafruit ($67.50)](https://www.adafruit.com/product/4818
+  - [Keyboard FeatherWing @ Tindy (474.16 sek)](https://www.tindie.com/products/arturo182/keyboard-featherwing-qwerty-keyboard-26-lcd/)
+    - it doenst come with the feather; but there are several awesome boards in feather format; the particls - with LTE cellular (and they have the battery as well)
+    - [adafruit feather format](https://www.adafruit.com/feather)
+
+  2021-04-22T22:21:47
+  - this vue js / tinymce editor looks really good: https://tinymce.github.io/tinymce-vue/?path=/story/tinymce-vue--iframe-editor
+    - "note taking", side bard, lot of features ... screenshot pasting.. enable and disbable button!
+    - the tutorial for this is here: https://www.tiny.cloud/docs/integrations/vue/https://www.tiny.cloud/docs/integrations/vue/
