@@ -1,3 +1,15 @@
+2021-04-19
+
+- st1s14phr datasheet vs EVB design
+  - breakout? actually build it? ... or is design sufficient for now?
+  - kicad at least maybe?
+- compare power supplies for iMX boards
+-> CE post (basic design vs design for EMC (Scott Williams))
+  - simulation possible?
+
+  2021-04-19T23:19:16
+  - i feel like i need to recognise that im not a professional design engineer - and so understanding the minute details is probably not important - knowing the high level and functionality is "good enough"; you have enough to focus on without getting too deep into the weeks in more subjects - so enjoy HW, and ask questions when you need it. But right now; MIC, CoAP, Vue, etc are all much more important for you to know
+
 2021-04-22T21:36:33
 - the S19Y02 EVB uses an ST1S14 buck converter
   - it is wired up in an interesting way
