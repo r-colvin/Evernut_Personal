@@ -55,4 +55,10 @@
   - start documenting here first perhaps...
 
 2021-04-22T22:13:13
-- pinged forum update on shipping from Taiwan to US for $4.99
+- pinged CE forum update on shipping from Taiwan to US for $4.99
+
+2021-04-23T14:44:15
+- [Difference between negative terminal and copper ground?](https://electronics.stackexchange.com/questions/51478/difference-between-negative-terminal-and-copper-ground#:~:text=So%20when%20the%20negative%20terminal,terminal%20serves%20as%20the%20ground.)
+- was also looking into how electrons flow in an RC circuit (since they must return to the capacitot)
+- also why are electrolytics poliarized (the dielectric is formed by the polarization)
+- capacitor types and when to use: https://www.electronics-tutorials.ws/capacitor/cap_2.html

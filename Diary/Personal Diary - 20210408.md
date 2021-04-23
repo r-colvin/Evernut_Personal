@@ -12,6 +12,7 @@
 - ####[Clean Up Postits](#TODO:1.8125)
   <!--
   -->
+  - 2021-04-23T14:41:58 "cleaned them up" by taking photos; will need to import the photos at some point though (photo on the phone); this also covers espresso diary as well
 
 - ####[Order AD2](#DOING:0)
   <!--
