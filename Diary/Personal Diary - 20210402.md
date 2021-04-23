@@ -1,0 +1,4 @@
+- danerum to be trasnferred from me to grimhammer (One.com)
+  - ortiva? (not an issue)
+  - anything else?
+- i have a photo from a youtube capture - "Raspberry Pi 400 CYBERDECK w Analog Knobs" -> looks like it might be a good hacked DSO setup! (see photo in library from 2021-04-02)
