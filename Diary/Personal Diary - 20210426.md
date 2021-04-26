@@ -13,3 +13,11 @@
     - reports to Grant
   - chatted hacking and the frankenboard
   - showed off my stack of postits from the weekend and why a better note systems is required; stop writing notes and start doing more
+
+2021-04-26T15:14:25
+- importing Postits
+  - pre-pull
+  ![](PersonalDiary-20210426-d0f55.png)
+  - post-pull
+  ![](PersonalDiary-20210426-8edcf.png)
+  - diff? (Coffee...)
