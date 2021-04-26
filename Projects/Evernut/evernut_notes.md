@@ -324,3 +324,7 @@ Looking into obsidian
   - this vue js / tinymce editor looks really good: https://tinymce.github.io/tinymce-vue/?path=/story/tinymce-vue--iframe-editor
     - "note taking", side bard, lot of features ... screenshot pasting.. enable and disbable button!
     - the tutorial for this is here: https://www.tiny.cloud/docs/integrations/vue/https://www.tiny.cloud/docs/integrations/vue/
+
+2021-04-26T09:28:27
+- i imported notes from the weekend into "Personal Diary - 20210423.md"
+- this note is getting very long and hard to navigate (on opening, it starts at the top and i have to scroll to the bottom)

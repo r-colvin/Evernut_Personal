@@ -1,0 +1,5 @@
+- Tim contacted me on LinkedIn regarding a job at watt - watchers; need to sync up (chatting on Messenger; Grant (his boss) pinged me on LinkedIn)
+  - never want to say no, but at the same time, there are a few warning bells
+    - startup & job security
+    - tims current opinions and stress levels
+    - remote to aus?

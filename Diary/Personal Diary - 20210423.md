@@ -15,3 +15,8 @@ chatting with Tim, pitching the evernuts idea to him
 ![6F1CB86B-9288-4E3A-9898-9F4495D4D0FF_1_105_c](https://user-images.githubusercontent.com/18327771/116041646-bd269300-a66d-11eb-8358-86b87e172c35.jpeg)
 ![3E239A37-4BCD-4BF5-A6DF-07BCB3A5EB43_1_105_c](https://user-images.githubusercontent.com/18327771/116041654-bf88ed00-a66d-11eb-9870-6c9e3e928967.jpeg)
 ![C71201F0-2F4B-4BDD-B8D9-A9E28E5E3462_1_105_c](https://user-images.githubusercontent.com/18327771/116041661-c0218380-a66d-11eb-822e-4aab56b9c2d5.jpeg)
+2021-04-26T09:26:45
+- i was able to take a photo of a post-it on my phone; sync it to iPhoto and import it via GitHub; otherwise i can screenshot and paste to local notes... clumsy but workable
+- the above notes are really for the Evernut topic
+- the last note (Tibbe/Mkk) is regarding being invited to the IoT Cloud Connector meeting
+- "Coffee -> IoT Automatic" is a note about simplifying (automating) the collection of data from the coffee machine... the more that can be automated, the lower the overhead, the better
