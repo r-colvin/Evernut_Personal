@@ -1,3 +1,6 @@
+![](PersonalDiary-20210426/PersonalDiary-20210426-31d41.png)
+![](PersonalDiary-20210426/PersonalDiary-20210426-c7c3e.png)
+
 - Tim contacted me on LinkedIn regarding a job at watt - watchers; need to sync up (chatting on Messenger; Grant (his boss) pinged me on LinkedIn)
   - never want to say no, but at the same time, there are a few warning bells
     - startup & job security
