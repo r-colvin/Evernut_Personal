@@ -17,7 +17,7 @@
 2021-04-26T15:14:25
 - importing Postits
   - pre-pull
-  ![](PersonalDiary-20210426-d0f55.png)
+  ![](PersonalDiary-20210426/PersonalDiary-20210426-d0f55.png)
   - post-pull
-  ![](PersonalDiary-20210426-8edcf.png)
+  ![](PersonalDiary-20210426/PersonalDiary-20210426-8edcf.png)
   - diff? (Coffee...)
