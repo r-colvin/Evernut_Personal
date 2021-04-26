@@ -17,6 +17,8 @@
   <!--
   -->
   - 2021-04-23T14:41:58 "cleaned them up" by taking photos; will need to import the photos at some point though (photo on the phone); this also covers espresso diary as well
+  - 2021-04-26 : imported all the postits from iPhoto to Personal Diary notes; you can check the Personal Diary 2021-04-26 for details; but also look at the git commit log for "Add Postit" and it's variants (but also just look at the commits for the day)
+    - one thing to note is the notes for coffee
 
 - ####[Order AD2](#DOING:0)
   <!--
