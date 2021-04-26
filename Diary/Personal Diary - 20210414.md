@@ -2,6 +2,8 @@
 ![BE66B02F-6BBA-422C-9A31-2FCC5206F334_1_105_c](https://user-images.githubusercontent.com/18327771/116086799-7c943d00-a6a0-11eb-9887-43ef3d523c51.jpeg)
 ![61D1B8C6-3A20-4A44-9923-92598097BB9E_1_105_c](https://user-images.githubusercontent.com/18327771/116086803-7dc56a00-a6a0-11eb-934c-56f56f3dcbe9.jpeg)
 ![76DA8469-D4A7-467E-B34E-0FFB1233F307_1_105_c](https://user-images.githubusercontent.com/18327771/116086806-7e5e0080-a6a0-11eb-908c-aaf6e20a5d3d.jpeg)
+![4A20F1DD-61E4-4C86-B6D1-4630B3ED6FDD_1_105_c](https://user-images.githubusercontent.com/18327771/116087010-b8c79d80-a6a0-11eb-953c-6673edced27c.jpeg)
+
 2021-04-14
 - chat with AG re: new role and what I'm doing now
   - showed him the garden, said it was not a big leap from the connected bar
