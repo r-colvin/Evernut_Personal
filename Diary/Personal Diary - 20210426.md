@@ -9,4 +9,4 @@
     - .net? (mondo) - python & c on 4G engine (cinterion & bg95)
     - reports to Grant
   - chatted hacking and the frankenboard
-  - showed off my stack of postits
+  - showed off my stack of postits from the weekend and why a better note systems is required; stop writing notes and start doing more
