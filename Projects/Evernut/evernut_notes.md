@@ -328,3 +328,28 @@ Looking into obsidian
 2021-04-26T09:28:27
 - i imported notes from the weekend into "Personal Diary - 20210423.md"
 - this note is getting very long and hard to navigate (on opening, it starts at the top and i have to scroll to the bottom)
+
+2021-04-26T22:49:28
+- well shucks! when making a list of the "Personal Diary" notes that im imported photos for
+Personal Diary - 20210402
+Personal Diary - 20210403
+Personal Diary - 20210404
+Personal Diary - 20210406
+Personal Diary - 20210407
+Personal Diary - 20210408
+Personal Diary - 20210411
+Personal Diary - 20210412
+Personal Diary - 20210413
+Personal Diary - 20210414
+Personal Diary - 20210415
+Personal Diary - 20210416
+Personal Diary - 20210417
+Personal Diary - 20210418
+Personal Diary - 20210419
+Personal Diary - 20210420
+Personal Diary - 20210421
+Personal Diary - 20210423
+Personal Diary - 20210424
+Personal Diary - 20210425
+Personal Diary - 20210426
+- i accidentally pasted a scresnshot into TextEdit on the mac and it works... WYSIWYG editor with screen pasting... hrmm
