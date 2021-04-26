@@ -1,3 +1,4 @@
+![A7116C6C-9D63-4BB2-8657-45F05359C6D7_1_105_c](https://user-images.githubusercontent.com/18327771/116100441-34c7e280-a6ad-11eb-8632-3d2ca1167d19.jpeg)
 chat with tim (messenger & quick call)
 - projects - i will have two MAJOR projects which encompas the learnings and training i want :) (CE will be a big help; looked up the CM3 IO board schematic - they didn't help much )
   - notetaking app - ball plank with Tim
