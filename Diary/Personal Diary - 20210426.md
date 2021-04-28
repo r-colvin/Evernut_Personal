@@ -15,6 +15,8 @@
   - chatted hacking and the frankenboard
   - showed off my stack of postits from the weekend and why a better note systems is required; stop writing notes and start doing more
 
+  - synced with Grant on LinkedIn - will catchup thursday @ 8 (might be tight with school dropoff and meeting Amit at 8:30)
+
 2021-04-26T15:14:25
 - importing Postits
   - pre-pull
