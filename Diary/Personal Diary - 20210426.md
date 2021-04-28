@@ -83,6 +83,29 @@ drwxr-xr-x  16 robertcolvin  staff   512 Apr 26 14:36 PersonalDiary-20210424
 drwxr-xr-x   6 robertcolvin  staff   192 Apr 26 14:38 PersonalDiary-20210425
 drwxr-xr-x   6 robertcolvin  staff   192 Apr 26 15:15 PersonalDiary-20210426
 
+files with github pictures
+Personal Diary - 20210402
+Personal Diary - 20210403
+Personal Diary - 20210404
+Personal Diary - 20210406
+Personal Diary - 20210407
+Personal Diary - 20210408
+Personal Diary - 20210411
+Personal Diary - 20210412
+Personal Diary - 20210413
+Personal Diary - 20210414
+Personal Diary - 20210415
+Personal Diary - 20210416
+Personal Diary - 20210417
+Personal Diary - 20210418
+Personal Diary - 20210419
+Personal Diary - 20210420
+Personal Diary - 20210421
+Personal Diary - 20210423
+Personal Diary - 20210424
+Personal Diary - 20210425
+Personal Diary - 20210426
+
 
 2021-04-26T20:42:32
 - i feel really cluttered in my brain right now... its chaotic and i don't feel on top of anything... i feel like i am jumping from task to task, constantly switching and trying to stay afloat. I feel like there is no predictability in my work - so any attempt at planning is somewhat futile. I think a large part of that is that i am trying to start in a new team, that no task is particularly mine... and im trying to sync with everyone - but in starting up, i am trying to involve myself in as much as possible, and everyone is trying to involve me. We, as a group are also just starting out - and as a company in general there is very little structure or cohesive direction (there is so much overlap in different groups just doing their own thing with no sync on our roadmap - its crazy - and am i the only one who sees it?)
