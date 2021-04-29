@@ -8,3 +8,5 @@
 - give up! keep the two vauls on the MBA and the phone (the MBA wont be in sync now)... sort it later - i have my logins on the mini now at least
   - solution will be to merge the two vauls i think; it's only 12 items
   - remember when 1Password was good?
+
+- moved the meeting wit Grant to Friday @ 8:30
