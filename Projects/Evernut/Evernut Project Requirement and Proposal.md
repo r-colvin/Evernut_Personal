@@ -143,5 +143,6 @@ IoT has meant that you need to be skilled in the HW again
     - the task can then link to the view of the tasks (since we are moving away from the concept of a single file - we instead have a collection of notes; and the entire task view is the collection of notes that makes up that task)
     - what i then need is UI/UX to show status updates (which should ideally be one per day worked - think agile/scrum): UI/UX to point me to next steps
     - use other metadata to denote the various things to track (some sort of tagging system) -> tied to UI/UX
+    - maybe just show the latest status? (with an option to show more)
 
 - lets role play a day in the life - let's pick monday to start with, a work day:
