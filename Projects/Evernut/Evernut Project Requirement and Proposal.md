@@ -135,4 +135,13 @@ IoT has meant that you need to be skilled in the HW again
   - talking with Grant and Tim... where should that info go?!
   - ... what the above shows me is that _categorization_ is a huge problem; removing it would make life, much much much easier!
 
+- creating tasks etc inside notes though is as good as I had hoped it would be! just needs to be expanded a wee bit to make it truly useful
+  - i think the issue of task tracking and status can be solved by using '[ ]' markdown when a new sub-task is opened (or next step perhaps);
+  - if you look at the note for Uplink Transform, then in that i write status updates all the time
+    - can NLP detect a status update? -> have to be careful in knowing what is a status update, and what is just a note of something that was done (maybe much of what i put into that notes is not status update, its just an update)
+    - [status] could be used, then the backend just finds all instances of [status] and can list them timestamped
+    - the task can then link to the view of the tasks (since we are moving away from the concept of a single file - we instead have a collection of notes; and the entire task view is the collection of notes that makes up that task)
+    - what i then need is UI/UX to show status updates (which should ideally be one per day worked - think agile/scrum): UI/UX to point me to next steps
+    - use other metadata to denote the various things to track (some sort of tagging system) -> tied to UI/UX
+
 - lets role play a day in the life - let's pick monday to start with, a work day:
