@@ -8,3 +8,7 @@
   - (https://brew.sh/)
   - install wget from brew (brew install wget)
   - save down the TT SDK docs with wget!
+    - wget -r -np -k -m -e robots=off --user=robert.calvin  --ask-password https://s2conn.stadium.co.uk/doc/s19y01/
+    - got the docs! :)
+
+- chatting with Tim

@@ -105,12 +105,34 @@ IoT has meant that you need to be skilled in the HW again
   - if I don't remember, I want to know exactly what the status of that task is; what i was doing, what i was thinking, and what i am doing next
   - since the last time i worked on a task, i might have made some notes/had an idea or thoughts that I want to try
 - when im at my desk (but maybe not working, so doing a project, or training ... or whatever)
+  - ...?
 - when im away from my desk (maybe on a workday, or a weekend... or whatever)
   - i think about things, i do research, i read, i get inspiration... some of that
 
-  essentially; i want to plan my day and I want to be able to pick up any task, after no matter how long, and start working with minimal overhead. I want to be able to work on things, with minimal overhead
+  - essentially; i want to plan my day and I want to be able to pick up any task, after no matter how long, and start working with minimal overhead. I want to be able to work on things, with minimal overhead
+  - i want to be free to work on whatever, whenever... and not be slowed down, or feel i need to be at my desk (if i do some training whilst washing dishes... why not? make use of the time - or watch a preso when exercising... do it!)
 
 - JUST THIS MINUTE (2021-05-03T10:16:21)
+  - I am looking at a stack of post-it's from the weekend that need to be dealt with - they are inspiration, and ideas, and thoughts.... but where to put them?
   - I followed up the ping I got on CE forum regarding the bench setup and DSO Nano; I couldn't find it - there was some notes in the Personal Diary from some time ago, so now i make a new note in the personal diary for today, with reference to the CE forum post; which is just terrible and I will lose that data
   - another one is the blogs idea; I will create a task to capture that work, and ideas - planning; but there will be links to training and goals/job description
-    - i have fritzing open with a diagram for a blog idea; but that is not captured anywhere, so that diagram is not going to be easily found again
+    - TCXN Goals -> MIC Goals -> MIC Commercial Goals (MIC Dev Goals related as well) -> My Goals
+      - Scale MIC
+        - Sales Material
+        - Marketing
+          - Directly to Customers
+            - Blogs of functionality
+          - Indirectly to Customers
+            - Blogs...
+        - Trainings to Existing/Potential Customer
+        - Documentation (developer / Internal / customer... )
+        - ... so where does the work I do on blogging really fit? if im not given the oportunity to do that work, there is no point in doing it!!
+          - but i should at least capture the work better than I do on a postit..
+  - I needed to install Brew; then wget - then get the docs for the SOM saved (and remember this is not attached to a task yet, so where do i put this? - i ended up putting in the daily diary
+      - this was for the S19Y01 blog post idea
+  - i am in the pricing model meeting, and hadn't done the prep at all (which came as a separate mail).... should prep for a meeting be a task?
+  - i have fritzing open with a diagram for a blog idea; but that is not captured anywhere, so that diagram is not going to be easily found again
+  - talking with Grant and Tim... where should that info go?!
+  - ... what the above shows me is that _categorization_ is a huge problem; removing it would make life, much much much easier!
+
+- lets role play a day in the life - let's pick monday to start with, a work day:
