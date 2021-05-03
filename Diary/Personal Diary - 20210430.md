@@ -1,0 +1,17 @@
+2021-04-30T08:31:03
+- Grant
+- talking music
+- chief innovation officer
+- take more active in HW, background in software
+- end-to-end software application dev
+- taking over the full
+- tom, fw dude, leaving to go to a chip startup
+- specific role: replacing the FW dev of tom; device operations - dms rollout, translator between HW team and support
+  - new role will shed some to other parts of the company, fulfill firmware; little bit of support, primarily FW dev though
+- prio 1 - take ownership of the FW
+- just about to take on new HW, hybrid insourced/outsourced model - primarily Java ME as thats what the HW supports
+  - advacement of the FW in more infrastructure inside
+  - modbus to communicate with inverters
+  - shifting to C though
+- originally hiring two fw developers, but with tom leaving, we're hiring 1
+- my background - issues in IM
