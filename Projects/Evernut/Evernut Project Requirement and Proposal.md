@@ -145,4 +145,7 @@ IoT has meant that you need to be skilled in the HW again
     - use other metadata to denote the various things to track (some sort of tagging system) -> tied to UI/UX
     - maybe just show the latest status? (with an option to show more)
 
+2021-05-04T08:23:45
+- status of a task is _how would you describe it in a standup?_ a one sentence summary of progress, next steps, current status
+
 - lets role play a day in the life - let's pick monday to start with, a work day:
