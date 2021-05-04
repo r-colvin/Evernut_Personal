@@ -148,4 +148,8 @@ IoT has meant that you need to be skilled in the HW again
 2021-05-04T08:23:45
 - status of a task is _how would you describe it in a standup?_ a one sentence summary of progress, next steps, current status
 
+2021-05-04T08:32:03
+- open questions, thoughts, subtasks, etc - actionable items that may be attached to a task or set of notes; how to work with those?
+  - lets imagine that I have a task, 
+
 - lets role play a day in the life - let's pick monday to start with, a work day:
