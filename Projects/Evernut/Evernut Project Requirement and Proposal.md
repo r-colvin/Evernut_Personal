@@ -153,4 +153,34 @@ IoT has meant that you need to be skilled in the HW again
 - open questions, thoughts, subtasks, etc - actionable items that may be attached to a task or set of notes; how to work with those?
   - lets imagine that I have a task,
 
+Moved here from TCXN Diary 20210505.md
+2021-05-05T12:21:59 (this notebook here is a perfect example! I an working on LOTS of things at the same time; i want to quickly write things down without swapping files - hence i opened a new, untitled file, just to get it down); i could quickly add a header to aid in filing later - this is why my plan of taking notes is a workable solution from practical experience
+
+2021-05-11T08:39:43
+- could wordpress be used as a backend for my work? maybe at least coffee?
+  - auth: https://developer.wordpress.com/docs/api/getting-started/
+  - then use a simple web ui (monaca?) to send a post
+
+2021-05-12T10:08:56 - Evernut
+  - get started with Vue.js and Tiny MCE https://www.tiny.cloud/blog/how-to-add-tinymce-5-wysiwyg-html-editor-to-vue/
+  - .tinymce and vue in the real world: https://www.martyfriedel.com/blog/integrating-tiny-with-vue-in-a-real-world-application
+  - autocomplete plugin for TinyMCE? https://www.martyfriedel.com/blog/tinymce-5-creating-an-autocomplete-plugin
+    - this would be really good for autocompleting tags etc
+
+
+    2021-05-17T09:38:14
+    - maybe i can go back to Evernote? im not handling sensitive customer stuff? though perhaps occasionally i am ...
+    - monday, 09:39 and im catching up on old notes; Im surrounded by postits (again) - and way behind in my admin; i spend more time updating notes and getting back on top of things that getting stuff done...
+    - atom is mostly ok, but it has so many holes; I need a developer who can help me just build it...
+    - clearly i have too much going on at the same time; its not sustainable.. i hate being "behind" and having to catch up... spending time filing
+    - joplin might be an option; but it won't work with Imdone... ARRRGGGG IT'S SO FRUSTRATING... I NEED TO GET A HANDLE ON WHAT TASKS I HAVE... focus on getting cleaned up... and try and move on
+      - one thing that always catches me when I do this work is that the "classification" is painful - i can dump into a file like this, with everything in one place
+      - actually, i have two things that are bugging me Now
+        1) all the notes I have need to be brought in, classified in the right place
+        2) i need to review the notes, find the tasks and update my existing tasks
+        - i want to get on with work; but i need to do this before i am completely in the weeds
+        3) additionally, i am concerned that something will fall between the cracks and then either 1) something good is lost 2) something important is not done 3) i have to redo work
+    - but maybe also I need to stop digging? focus on the tasks infront of me and let the rest go? (but that would be stepping on my curiosity!)
+      - make a note/task/action for later; if it comes up again - then start it and note it, otherwise let it go
+      
 - lets role play a day in the life - let's pick monday to start with, a work day:
